@@ -1,0 +1,9 @@
+{
+    "paths": {
+        "Robot A": [1, 2, 3, 4, 5],
+        "Robot B": [6, 7, 3, 8, 9]
+    },
+    "stopInstructions": {
+        "Robot B": "Stop before reaching node 3"
+    }
+}
