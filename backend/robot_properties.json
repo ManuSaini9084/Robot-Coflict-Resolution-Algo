@@ -1,0 +1,4 @@
+{
+    "Robot A": {"priority": 1, "task_urgency": 5, "battery": 80},
+    "Robot B": {"priority": 2, "task_urgency": 3, "battery": 60}
+}
